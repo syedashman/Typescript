@@ -1,0 +1,11 @@
+var arr = [3, "Ashman", true, "Hello World!"];
+var a = arr[0], e = arr[1], c = arr[2], d = arr[3];
+console.log(a);
+console.log(e);
+console.log(c);
+console.log(d);
+var ts = [40, 20];
+var x = ts[0], y = ts[1];
+console.log(x + y);
+var Eric = "Hello Eric, would you like to learn some Python today?";
+console.log(Eric);
